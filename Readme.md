@@ -11,6 +11,8 @@ You can read the article [here](http://www.dw.com/en/dw-exclusive-how-german-com
 
 Please see [this Jupyter Notebook](https://github.com/gcgruen/DW_Data-DonationsToGermanParties/blob/master/Parteispenden.ipynb) for data cleaning and analysis.
 
-This is the [final dataset](https://github.com/gcgruen/DW_Data-DonationsToGermanParties/blob/master/data/ALL-DONATION-DATA-COMPILED.csv) all analysis was built on.
+Here's an [interactive data table](https://gcgruen.github.io/datatable-party-donations/) that allows you to explore the data yourself.
+
+This is the [final dataset](https://github.com/gcgruen/DW_Data-DonationsToGermanParties/blob/master/data/ALL-DONATION-DATA-COMPILED.csv) all analysis was built on, in case you would like to download it as a csv.
 
 The d3.js code for the interactive visuals can be found [here](https://github.com/gcgruen/DW_Data-DonationsToGermanParties/tree/master/interactive_visuals_EN_Desktop)
