@@ -1,0 +1,112 @@
+amount_donated,date_received,date_reported,donor_address,donor_name,receiving_party,source,type
+150000.0,2013-12-20,2014-01-07,"Löffelstraße 22-24, 70597 Stuttgart",Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.,CDU,['Drs. 18/335'],g
+55000.0,2013-12-20,2013-12-24,"Löffelstraße 22-24, 70597 Stuttgart",Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.,SPD,['Drs. 18/335'],g
+60000.0,2013-12-20,2013-12-20,"Löffelstraße 22-24, 70597 Stuttgart",Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.,The Greens,['Drs. 18/335'],g
+80000.0,2013-12-20,2013-12-20,"Löffelstraße 22-24, 70597 Stuttgart",Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.,FDP,['Drs. 18/335'],g
+200000.0,2013-12-17,2013-12-18,"Lindenallee 78, 50968 Köln",R&W Industriebeteiligungen GmbH,FDP,['Drs. 18/335'],g
+70000.0,2013-11-15,2013-11-19,"Rellinghauser Straße 1-11, 45128 Essen",Evonik Industries AG,CDU,['Drs. 18/151'],g
+90000.0,2013-11-15,2013-11-18,"Rellinghauser Straße 1-11, 45128 Essen",Evonik Industries AG,SPD,['Drs. 18/151'],g
+150000.0,2013-10-16,2013-10-23,"Max-Joseph-Straße 5, 80333 München",Verband der Bayerischen Metall- und Elektroindustrie e.V. (VBM),FDP,['Drs. 18/42'],g
+70000.0,2013-10-09,2013-10-23,"Günther Quandt-Haus, Seedammweg 55",Susanne Klatten,FDP,['Drs. 18/42'],g
+70000.0,2013-10-09,2013-10-23,"Günther Quandt-Haus, Seedammweg 55",Johanna Quandt,FDP,['Drs. 18/42'],g
+70000.0,2013-10-09,2013-10-23,"Günther Quandt-Haus, Seedammweg 55",Stefan Quandt,FDP,['Drs. 18/42'],g
+565000.0,2013-10-15,2013-10-17,"Max-Joseph-Straße 5, 80333 München",Verband der Bayerischen Metall- und Elektroindustrie e.V. (VBM),CSU,['Drs. 18/22'],g
+230000.0,2013-10-09,2013-10-10,"Seedammweg 55, 61352 Bad Homburg",Susanne Klatten,CDU,['Drs. 17/14829'],g
+230000.0,2013-10-09,2013-10-10,"Seedammweg 55, 61352 Bad Homburg",Johanna Quandt,CDU,['Drs. 17/14829'],g
+230000.0,2013-10-09,2013-10-10,"Seedammweg 55, 61352 Bad Homburg",Stefan Quandt,CDU,['Drs. 17/14829'],g
+60000.0,2013-06-27,2013-08-29,"Uerdinger Straße 58-62, 40474 Düsseldorf",Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e.V.,CDU,['Drs. 17/14778'],g
+60000.0,2013-08-19,2013-08-23,"Erich-Nörrenberg-Straße 1, 58636 Iserlohn",Märkischer Arbeitgeberverband e.V.,CDU,['Drs. 17/14709'],g
+64000.0,2013-08-08,2013-08-15,"Mainzer Landstraße 55, 60329 Frankfurt am Main",Verband der Chemischen Industrie e.V. (VCI),FDP,['Drs. 17/14709'],g
+100000.0,2013-07-26,2013-08-08,"Mainzer Landstraße 55, 60329 Frankfurt am Main",Verband der Chemischen Industrie e.V. (VCI),CDU,['Drs. 17/14625'],g
+130000.0,2013-07-18,2013-07-25,"Merckstraße 40, 64342 Seeheim-Jugenheim",Prof. Dr. Hans-Joachim Langmann,CDU,['Drs. 17/14625'],g
+70000.0,2013-07-09,2013-07-11,"Waldweg 9, 77963 Schwanau",Dr. Ing. E.h. Martin Herrenknecht,CDU,['Drs. 17/14442'],g
+100000.0,2013-07-04,2013-07-11,"Am Weinberg 2, 37115 Duderstadt",Prof. Hans Georg Näder,CDU,['Drs. 17/14442'],g
+80000.0,2013-06-06,2013-07-01,"An der Lister Kirche 2, 30163 Hannover",Marga Süsselbeck,SPD,['Drs. 17/14388'],g
+60000.0,2013-06-27,2013-06-28,"Uerdinger Straße 58-62, 40474 Düsseldorf",Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e.V.,FDP,['Drs. 17/14388'],g
+100000.0,2013-06-10,2013-06-13,"Neuer Jungfernstieg 20, 20354 Hamburg","Berenberg Bank Joh. Berenberg, Gossler & Co. KG",CDU,['Drs. 17/14283'],g
+100000.0,2013-04-30,2013-04-30,"70546 Stuttgart, 20354 Hamburg",Daimler AG,CDU,['Drs. 17/13669'],g
+100000.0,2013-04-26,2013-04-26,"70546 Stuttgart, 20354 Hamburg",Daimler AG,SPD,['Drs. 17/13669'],g
+55000.0,2014-12-18,2014-12-19,"Löffelstraße 22-24, 70597 Stuttgart",Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.,SPD,['Drs. 18/3757'],g
+100000.0,2014-12-18,2014-12-19,"Löffelstraße 22-24, 70597 Stuttgart",Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.,The Greens,['Drs. 18/3757'],g
+150000.0,2014-12-18,2014-12-18,"Löffelstraße 22-24, 70597 Stuttgart",Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.,CDU,['Drs. 18/3757'],g
+80000.0,2014-12-18,2014-12-18,"Löffelstraße 22-24, 70597 Stuttgart",Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.,FDP,['Drs. 18/3757'],g
+300000.0,2014-12-17,2014-12-19,"Max-Joseph-Straße 5, 80333 München",Verband der Bayerischen Metall- und Elektroindustrie e.V. (VBM),CSU,['Drs. 18/3757'],g
+200000.0,2014-11-13,2014-11-14,"Lindenallee 78, 50968 Köln",R&W Industriebeteiligungen GmbH,FDP,['Drs. 18/3386'],g
+70000.0,2014-09-24,2014-09-30,"Rellinghauser Straße 1-11, 45128 Essen",Evonik Industries AG,CDU,['Drs. 18/2941'],g
+90000.0,2014-09-24,2014-09-24,"Rellinghauser Straße 1-11, 45128 Essen",Evonik Industries AG,SPD,['Drs. 18/2941'],g
+55000.0,2014-09-02,2014-09-05,"Uerdinger Straße 58-62, 40474 Düsseldorf",Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e.V.,CDU,['Drs. 18/2701'],g
+100000.0,2014-04-23,2014-04-24,"70546 Stuttgart, 40474 Düsseldorf",Daimler AG,SPD,['Drs. 18/1406'],g
+100000.0,2014-04-22,2014-04-23,"70546 Stuttgart, 40474 Düsseldorf",Daimler AG,CDU,['Drs. 18/1406'],g
+143371.27,2014-02-25,2014-02-26,"Petuelring 130, 80809 München",Bayerische Motoren Werke AG,CSU,['Drs. 18/1406'],g
+100000.0,2015-12-21,2015-12-22,"Löffelstraße 22-24, 70597 Stuttgart",Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.,FDP,['Drs. 18/7280'],g
+358000.0,2015-12-18,2015-12-21,"Max-Joseph-Straße 5, 80333 München",Verband der Bayerischen Metall- und Elektroindustrie e.V. (VBM),CSU,['Drs. 18/7280'],g
+60000.0,2015-12-11,2015-12-16,"Löffelstraße 22-24, 70597 Stuttgart",Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.,SPD,['Drs. 18/7280'],g
+110000.0,2015-12-11,2015-12-15,"Löffelstraße 22-24, 70597 Stuttgart",Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.,The Greens,['Drs. 18/7280'],g
+150000.0,2015-12-11,2015-12-11,"Löffelstraße 22-24, 70597 Stuttgart",Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.,CDU,['Drs. 18/7280'],g
+200000.0,2015-11-24,2015-11-25,"Am Esch 10, 36355 Grebenhain-Bermuthshain",Dr. Lutz Helmig,FDP,['Drs. 18/6960'],g
+250000.0,2015-11-10,2015-11-11,"Lindenallee 78, 50968 Köln",R&W Industriebeteiligungen GmbH,FDP,['Drs. 18/6960'],g
+90000.0,2015-10-06,2015-10-08,"Rellinghauser Straße 1-11, 45128 Essen",Evonik Industries AG,CDU,['Drs. 18/6472'],g
+60000.0,2015-10-06,2015-10-07,"Rellinghauser Straße 1-11, 45128 Essen",Evonik Industries AG,SPD,['Drs. 18/6472'],g
+100000.0,2015-09-28,2015-09-30,"Johann-Maus-Straße 2, 71254 Ditzingen",Trumpf GmbH + Co. KG,CDU,['Drs. 18/6471'],g
+70000.0,2015-07-01,2015-07-03,"Hagrainer Straße 15, 83700 Rottach-Egern",Dr. Georg Kofler,CDU,['Drs. 18/5597'],g
+70000.0,2015-06-12,2015-06-16,"Merckstraße 40, 64342 Seeheim-Jugenheim",Prof. Dr. Hans-Joachim Langmann,CDU,['Drs. 18/5464'],g
+100000.0,2015-05-14,2015-05-18,"70546 Stuttgart, 64342 Seeheim-Jugenheim",Daimler AG,CDU,['Drs. 18/5059'],g
+100000.0,2015-05-14,2015-05-15,"70546 Stuttgart, 64342 Seeheim-Jugenheim",Daimler AG,SPD,['Drs. 18/5059'],g
+100000.0,2016-12-29,2017-01-04,"Hans-Iwand-Straße 5, 53113 Bonn",Dr. Marianne Zubrzycki-Lederhausen,AfD,['Drs. 18/11043'],g
+51000.0,2016-12-16,2017-01-04,"Neuer Jungfernstieg 20, 20354 Hamburg","Berenberg Bank Joh. Berenberg, Gossler & Co. KG",SPD,['Drs. 18/11043'],g
+350000.0,2016-12-20,2016-12-21,"Max-Joseph-Straße 5, 80333 München",Verband der Bayerischen Metall- und Elektroindustrie e.V. (VBM),CSU,['Drs. 18/11043'],g
+110000.0,2016-12-16,2016-12-21,"Löffelstraße 22-24, 70597 Stuttgart",Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.,The Greens,['Drs. 18/11043'],g
+110000.0,2016-12-16,2016-12-20,"Löffelstraße 22-24, 70597 Stuttgart",Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.,FDP,['Drs. 18/11043'],g
+100000.0,2016-12-16,2016-12-19,"Neuer Jungfernstieg 20, 20354 Hamburg","Berenberg Bank Joh. Berenberg, Gossler & Co. KG",CDU,['Drs. 18/11043'],g
+60000.0,2016-12-16,2016-12-19,"Löffelstraße 22-24, 70597 Stuttgart",Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.,SPD,['Drs. 18/11043'],g
+150000.0,2016-12-16,2016-12-16,"Löffelstraße 22-24, 70597 Stuttgart",Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.,CDU,['Drs. 18/11043'],g
+100000.0,2016-11-25,2017-01-25,"Pferdmengesstraße 3, 50968 Köln",Christoph Alexander Kahl,CDU,['Drs. 18/11539'],g
+200000.0,2016-11-18,2016-11-22,"Lindenallee 78, 50968 Köln",R&W Industriebeteiligungen GmbH,FDP,['Drs. 18/10597'],g
+90000.0,2016-11-09,2016-11-11,"Rellinghauser Straße 1-11, 45128 Essen",Evonik Industries AG,SPD,['Drs. 18/10597'],g
+90000.0,2016-11-04,2016-11-07,"Rellinghauser Straße 1-11, 45128 Essen",Evonik Industries AG,CDU,['Drs. 18/10597'],g
+60000.0,2016-10-25,2016-10-27,"Bismarckallee 22, 14193 Berlin",Dr. Arend Oetker,CDU,['Drs. 18/10597'],g
+299989.0,2016-08-29,2016-09-01,"Johannisstraße 3, 10117 Berlin",Jochen Wermuth,The Greens,['Drs. 18/9820'],g
+50001.0,2016-07-01,2016-07-04,"Seedammweg 55, 61352 Bad Homburg",Stefan Quandt,CDU,['Drs. 18/9461'],g
+50001.0,2016-07-01,2016-07-04,"Seedammweg 55, 61352 Bad Homburg",Susanne Klatten,CDU,['Drs. 18/9461'],g
+100000.0,2016-05-04,2016-05-09,70546 Stuttgart,Daimler AG,SPD,['Drs. 18/8562'],g
+100000.0,2016-05-03,2016-05-09,70546 Stuttgart,Daimler AG,CDU,['Drs. 18/8562'],g
+300000.0,2016-02-23,2016-02-26,"Johannisstraße 3, 10117 Berlin",Jochen Wermuth,The Greens,['Drs. 18/7843'],g
+150000.0,2016-02-08,2016-02-18,"Rosentalstraße 56, 70563 Stuttgart",Andreas Lapp,CDU,['Drs. 18/7843'],g
+75000.0,2016-01-29,2016-01-29,"Johann-Maus-Straße 2, 71254 Ditzingen",Trumpf GmbH + Co. KG,CDU,['Drs. 18/7731'],g
+100000.0,2016-01-04,2016-01-05,"Merckstraße 40, 64342 Seeheim-Jugenheim",Prof. Dr. Hans-Joachim Langmann,CDU,['Drs. 18/7731'],g
+70000.0,2017-08-11,2017-08-15,"Mainzer Landstraße 55, 60329 Frankfurt am Main",Verband der Chemischen Industrie e.V. (VCI),SPD,[],g
+75000.0,2017-08-11,2017-08-14,"Mainzer Landstraße 55, 60329 Frankfurt am Main",Verband der Chemischen Industrie e.V. (VCI),FDP,[],g
+150000.0,2017-08-10,2017-08-16,"Mainzer Landstraße 55, 60329 Frankfurt am Main",Verband der Chemischen Industrie e.V. (VCI),CDU,[],g
+50100.0,2017-08-10,2017-08-11,"Rheinsberger Straße 32, 10435 Berlin",Verena Pausder,FDP,[],g
+100000.0,2017-08-07,2017-08-08,"Pferdsdorfer Weg 6, 99831 Creuzburg",Ralf Pollmeier,SPD,[],g
+300000.0,2017-07-26,2017-07-27,"Kardinal-Faulhaber-Straße 14, 80333 München",FKH Beteiligungs SE,FDP,[],g
+100000.0,2017-07-26,2017-07-28,"Poststraße 5-6, 40213 Düsseldorf",Droege Group AG,FDP,[],g
+50100.0,2017-07-25,2017-07-26,"Schlüterstraße 40, 10707 Berlin",Lars Dittrich,FDP,[],g
+68000.0,2017-07-12,2017-07-14,"Lutterstraße 14, 33617 Bielefeld ",Dr. August Oetker KG,CDU,[],g
+55000.0,2017-07-05,2017-07-06,"Zugspitzstraße 1, 82049 Pullach",Sixt GmbH & Co. Autovermietung KG,FDP,[],g
+90000.0,2017-07-03,2017-07-04,"Uerdinger Straße 58-62, 40474 Düsseldorf",Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e.V.,FDP,[],g
+100000.0,2017-07-03,2017-08-02,"Rotthäuser Weg 30, 40629 Düsseldorf",Patrick Schwarz-Schütte,CDU,[],g
+110000.0,2017-06-30,2017-07-05,"Uerdinger Straße 58-62, 40474 Düsseldorf",Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e.V.,CDU,[],g
+50001.0,2017-06-26,2017-06-29,"Seedammweg 55, 61352 Bad Homburg",Susanne Klatten,CDU,['Drs. 18/13179'],g
+50001.0,2017-06-26,2017-06-29,"Seedammweg 55, 61352 Bad Homburg",Stefan Quandt,CDU,['Drs. 18/13179'],g
+50001.0,2017-06-23,2017-06-26,"Seedammweg 55, 61352 Bad Homburg",Susanne Klatten,FDP,['Drs. 18/13179'],g
+50001.0,2017-06-23,2017-06-26,"Seedammweg 55, 61352 Bad Homburg",Stefan Quandt,FDP,['Drs. 18/13179'],g
+150000.0,2017-06-22,2017-06-23,"Lindenallee 78, 50968 Köln",R&W Industriebeteiligungen GmbH,FDP,['Drs. 18/13179'],g
+70000.0,2017-06-20,2017-06-21,"Merckstraße 40, 64342 Seeheim-Jugenheim",Prof. Dr. Hans-Joachim Langmann,CDU,['Drs. 18/13179'],g
+300000.0,2017-06-14,2017-06-14,"Merckstraße 40, 64342 Seeheim-Jugenheim",Prof. Dr. Hans-Joachim Langmann,CDU,['Drs. 18/13179'],g
+100000.0,2017-06-01,2017-06-06,"Kurfürstendamm 63, 10707 Berlin",VHB Grundstücksverwaltung und Beteiligung GmbH & Co. KG,CDU,['Drs. 18/13179'],g
+100000.0,2017-05-29,2017-05-30,"Hagrainer Straße 15, 83700 Rottach-Egern",Dr. Georg Kofler,CDU,['Drs. 18/13029'],g
+500000.0,2017-05-23,2017-05-23,"Friedensstraße 4, 56410 Montabaur",Ralph Dommermuth,CDU,['Drs. 18/13029'],g
+100000.0,2017-05-16,2017-05-16,"Am Weinberg 2, 37115 Duderstadt",Prof. Hans Georg Näder,FDP,['Drs. 18/13029'],g
+100000.0,2017-05-04,2017-05-09,"Neumäuerstraße 39/2, 74523 Schwäbisch Hall",Frank Hansen,The Greens,['Drs. 18/13029'],g
+100000.0,2017-04-28,2017-05-03,"70546 Stuttgart, 74523 Schwäbisch Hall",Daimler AG,SPD,['Drs. 18/12526'],g
+100000.0,2017-04-27,2017-05-02,"70546 Stuttgart, 74523 Schwäbisch Hall",Daimler AG,CDU,['Drs. 18/12526'],g
+100000.0,2017-04-10,2017-04-11,"Johann-Maus-Straße 2, 71254 Ditzingen",Trumpf GmbH + Co. KG,CDU,['Drs. 18/12526'],g
+56310.0,2017-04-07,2017-04-10,"Lindenallee 78, 50968 Köln",R&W Industriebeteiligungen GmbH,FDP,['Drs. 18/12526'],g
+60000.0,2017-03-30,2017-04-06,"Michelinstraße 10, 66424 Homburg",Firma Dr. Theiss Naturwaren GmbH,CDU,['Drs. 18/12508'],g
+83535.0,2017-03-20,2017-03-21,"Steyrer Weg 6, 50858 Köln",Hans Horst Grosspeter,CDU,['Drs. 18/12508'],g
+60000.0,2017-03-08,2017-03-09,"Hagrainer Straße 15, 83700 Rottach-Egern",Dr. Georg Jakob Kofler,FDP,['Drs. 18/12508'],g
+200000.0,2017-03-02,2017-03-06,"Bertha-von-Suttner-Straße 18, 65189 Wiesbaden",Alexander Mecking,FDP,['Drs. 18/12508'],g
+110000.0,2017-02-22,2017-02-23,"Bismarckallee 22, 14193 Berlin",Dr. Arend Oetker,CDU,['Drs. 18/11539'],g
+100000.0,2017-01-18,2017-01-30,"Pferdmengesstraße 3, 50968 Köln",Christoph Alexander Kahl,CDU,['Drs. 18/11539'],g
+300000.0,2017-01-13,2017-01-13,"Am Esch 10, 36355 Grebenhain-Bermuthshain",Dr. Lutz Helmig,FDP,['Drs. 18/11539'],g

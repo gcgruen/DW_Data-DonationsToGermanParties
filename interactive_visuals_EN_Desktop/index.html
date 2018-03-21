@@ -1,0 +1,229 @@
+<!doctype html>
+<html>
+  <head>
+    <!-- The browser can use non-English-language characters (...kind of) -->
+      <meta charset="utf-8">
+      <style>
+      * {
+        font-family: "Georgia";
+      }
+      p, text {
+        font-size: 15px;
+        color: #3e3e3e;
+        line-height: 25px;
+      }
+
+      h1, h2, h3, h4, h5, h6 {
+        color: #3e3e3e;
+        line-height: 25px;
+      }
+
+      div, text {
+        font-family: "Arial";
+        font-size: 12px;
+        line-height: 16px;
+        color: #3e3e3e;
+      }
+
+      .CDU-spende {
+        fill: #7f7f7f;
+      }
+
+      .CDU-grossspende {
+        fill: #000000;
+      }
+
+      .CSU-spende {
+        fill: #7f7f7f;
+      }
+
+      .CSU-grossspende {
+        fill: #3e3e3e;
+      }
+
+      .SPD-spende {
+        fill: #eb9382;
+      }
+
+      .SPD-grossspende {
+        fill: #d72805;
+      }
+
+/*for English*/
+      .TheGreens-spende {
+        fill: #b6d27f;
+      }
+
+      .TheGreens-grossspende {
+        fill: #6ea500;
+      }
+
+      .TheLeftparty-spende {
+        fill: #fb7fbe;
+      }
+
+      .TheLeftparty-grossspende {
+        fill: #f7007d;
+      }
+
+      .Grüne-spende {
+        fill: #b6d27f;
+      }
+
+      .Grüne-grossspende {
+        fill: #6ea500;
+      }
+
+      .Linke-spende {
+        fill: #fb7fbe;
+      }
+
+      .Linke-grossspende {
+        fill: #f7007d;
+      }
+
+      .FDP-spende {
+        fill: #f5e882;
+      }
+
+      .FDP-grossspende {
+        fill: #ebd205;
+      }
+
+      .AfD-spende {
+        fill: #aac8dc;
+      }
+
+      .AfD-grossspende {
+        fill: #5591b9;
+      }
+
+      .andere-einnahmen {
+        fill: #bac5ce;
+      }
+
+      .rechenschaftsbericht {
+        fill: none;
+        stroke: #778d9e;
+        stroke-width: 2px;
+      }
+
+      .grossspende-inaktiv {
+        fill: #95A6B3;
+        stroke-width: 2px;
+      }
+
+      .axis path, line {
+        stroke: #778d9e;
+        stroke-width: 1.5px;
+      }
+
+      .axis text {
+        font-size: 12px;
+        fill: #778d9e;
+      }
+
+      .tick line {
+        stroke: #778d9e;
+      }
+
+            /* Style the tab */
+      div.tab {
+          overflow: hidden;
+          background-color: #ffffff;
+          width: 696px;
+          height: 31px;
+          background: #ffffff;
+          color: #3e3e3e;
+          border-radius: 2px;
+          border: 2px solid #F1F3F5;
+          font-family: Arial;
+          position: relative;
+      }
+
+      /* Style the buttons inside the tab */
+      div.tab button {
+          background-color: inherit;
+          border: 2px solid #F1F3F5;
+          outline: 2px solid #F1F3F5;
+          cursor: pointer;
+          padding: 6px 20px;
+          transition: 0.3s;
+          font-family: Arial;
+          font-weight: bold;
+          color: #3e3e3e;
+          font-size:13px;
+          text-align: center;
+          position: relative;
+      }
+
+      /* Change background color of buttons on hover */
+      div.tab button:hover {
+          background-color: #0098FF;
+      }
+
+      /* Create an active/current tablink class */
+      div.tab button.active {
+          background-color: #ccc;
+      }
+
+      /* Style the tab content */
+      .tabcontent {
+          display: none;
+          padding: 6px 12px;
+          border: 1px solid #ccc;
+          border-top: none;
+      }
+
+      svg {
+        background: #F1F3F5;
+        /*background-image: linear-gradient(134deg, #f4f5f7, #f4f5f7 36%, #d9e1e7)*/
+      }
+      </style>
+  </head>
+  <body>
+
+
+ 
+    <h3>Party donations by party or year</h3>
+    <div class="tab">
+    <button class ="tablinks" id="party">By party </button>
+    <button class ="tablinks" id="bigdonations-party">Major donations per party</button>
+    <button class ="tablinks" id="year">By year</button>
+    <button class ="tablinks" id="bigdonations-year">Major donations per year</button>
+    </div>
+    <div id="chart2-barchart-money-donated">
+    </div>
+
+
+    <h3>Large sums donated secretly</h3>
+    <div id="chart3-gap-big-donations"></div>
+
+    
+    <h3>When are major contributions being made?</h3>
+    <div id="label">Move your mouse over a line to see who this major donation is from</div>
+    <div id="chart4-donation-frequency"></div>
+
+
+    <h3>Top 100 financiers of German politics</h3>
+    <div id="chart5-who-to-whom"></div>
+
+
+
+    <!-- This is D3, our graphing library -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.2.2/d3.min.js"></script>
+
+        <!-- 
+      This is d3-tip, which will give us d3 tooltips
+      https://github.com/Caged/d3-tip
+    -->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
+      <link rel="stylesheet" href="tooltipV1.css">
+
+    <!-- Now we include our actual visualization -->
+    <script src="EN-chart2-bar-DonationsByPartyOrYear.js"></script>
+    <script src="EN-chart3-gap-big-donations.js"></script>    
+    <script src="EN-chart4-donation-frequency.js"></script>
+    <script src="EN-chart5-who-to-whom.js"></script>
+  </body>
+</html>
